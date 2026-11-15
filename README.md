@@ -1,3 +1,29 @@
+# Umi-OCR
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A free offline OCR app with screenshot and batch image/PDF recognition, watermark and header removal, QR code support and multilingual models.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源免费的离线 OCR 软件，支持截屏与批量图片、PDF 识别，可排除水印页眉页脚并扫描生成二维码，内置多国语言库。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="left">
     <span>
         <b>中文</b>
